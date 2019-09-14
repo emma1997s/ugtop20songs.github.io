@@ -1,0 +1,170 @@
+body{
+    background-color: lightgrey;
+    font-family:Ariel,Arial, Helvetica, sans-serif !important;
+    margin:auto;
+    font-size: 14px;
+}
+
+.high{
+    padding-left: 10%;
+    padding-right: 5%;
+}
+
+.bar{
+    text-align: center;
+    color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 10px;
+}
+
+.brand h3{
+      color:wheat;
+      ;
+      text-align:inherit;
+      padding-top: -14%;
+      padding-left: 5%;
+}
+
+.container{
+       text-align: end;
+       padding-right: 4%;
+       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+.container nav a:hover{
+    background-color: rgb(61, 54, 54);
+    color:white;
+}
+
+.container nav a:link{
+    color:black;
+
+}
+
+.container nav a:active{
+    color: black;
+} 
+
+.container nav a:visited{
+    color:rgb(117, 223, 56);
+}
+
+.container nav a{
+    text-underline-position:below;
+    word-spacing: 2%;
+    
+}
+
+#ton{
+    text-align: center;
+    color:wheat;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 10%;
+    font-size: 150%;
+    font-weight: 200;
+    line-height: 1.6em;
+
+}
+ 
+.showcase{
+   background-image: url('../img/10885256-illustration-of-people-dancing-in-party-on-colorful-musical-background.jpg')
+}
+
+.form{
+        text-align:center;
+        padding-bottom: 2%;
+        background-color: rgb(211, 0, 46);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.form input[text="email"]{
+    border-radius: 23%;
+}
+ 
+#col{
+    background-color:gray;
+    color:wheat;
+    margin-left:0%;
+}
+
+.letter{
+    text-align: center;
+    padding-top: 2%;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+#note p h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ 
+.info{
+    background-image: url('../img/bg/pngtree-cool-music-festival-carnival-character-silhouette-background-design-backgroundcolorfullivelycharacter-carnivalholiday-backgroundmusic-image_70553.jpg');
+    padding-left: 0%;
+    padding-top: 7%;
+    padding-right: 0%;
+    margin-left: 0%;
+    color: wheat;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.web{
+   text-align: center;
+   color: black;
+   font-weight: bold;
+}
+
+#nxt{
+    text-align: center;
+}
+
+#nxt :hover{
+    color:rgb(211, 70, 70);
+}
+
+#playlist{
+    font-family: 'Oxygen', sans-serif !important; 
+}
+
+#cont{
+    text-align: center;
+    font-family: 'Oxygen', sans-serif;
+    
+}
+
+.dog{
+    background-color: darkslategrey;
+    text-align: center;
+    display: block;
+    padding:20px,2px,0px,20px;
+    border-radius: 10%;
+}
+
+#but{
+    background-color: grey;
+    border-radius: 15%;
+}
+
+#playlist a:hover{
+    color:gray;
+
+}
+
+#things{
+    display:inline;
+    padding-top: 5%;
+    padding-left: 1%;
+    padding-right: 0%;
+    margin-left: 5%;
+    margin-right: 3%;
+    word-spacing: 0%;
+    
+    
+}
+
+#things a:hover{
+    color:rgb(219, 128, 128);
+}
